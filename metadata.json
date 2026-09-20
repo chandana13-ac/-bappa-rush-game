@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bappa Rush: The Great Festival Challenge",
+  "description": "A stable, polished, family-friendly 3D festival game featuring an interactive festival hub, vibrant festive atmosphere, and festival preparations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
